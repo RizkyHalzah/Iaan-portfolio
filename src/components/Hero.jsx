@@ -15,7 +15,7 @@ function App() {
             </p>
             <div className="flex gap-4 justify-center md:justify-start">
               <a
-                href="/assets/CV.Iaan.pdf"
+                href="/assets/CV Iaan.pdf"
                 download
                 className="px-6 py-3 bg-purple-500 rounded-lg hover:bg-purple-600 transition"
               >
