@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import url('https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css');
+
+@layer base {
+    body{
+          font-family: "Poppins", sans-serif;
+    }
+}
