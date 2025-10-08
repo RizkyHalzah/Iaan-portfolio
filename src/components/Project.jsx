@@ -16,9 +16,9 @@ export default function Project() {
       link: "#",
     },
     {
-      title: "Mini Game Web Arcade",
-      description: "Interactive arcade machine built with JavaScript, featuring custom spin logic, auto-play, and coin tracking using state management.",
-      image: "/assets/arcade-machine.png",
+      title: "Catalogue Website",
+      description: "A simple product catalog website built using HTML, CSS, and JavaScript. This project showcases my first step in frontend development, focusing on clean layout and interactive navigation.",
+      image: "/assets/catalog.png",
       tech: ["HTML", "CSS", "Javascript"],
       link: "#",
     },
